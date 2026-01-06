@@ -7,6 +7,7 @@ permalink: /
 ---
 
 # WorldSim Documentation
+
 {: .fs-9 }
 
 A complex world simulation featuring emergent AI behavior, dynamic economies, and rich factional politics.
@@ -25,7 +26,7 @@ The AI systems define how NPCs think, feel, and interact with each other and the
 
 - [**AI Systems - Core (MVP)**](./HighLevelOverview/AI_Systems_Core)  
   Foundational AI behavior systems ready for implementation
-  
+
 - [**AI Systems - Enhancements (Future)**](./HighLevelOverview/AI_Systems_Enhancements)  
   Post-MVP features and polish
 
@@ -35,25 +36,35 @@ The economic systems create realistic trade, production, and resource flow dynam
 
 - [**Economic Systems - Core (MVP)**](./HighLevelOverview/Economic_Systems_Core)  
   Observable, physical, emergent economy
-  
+
 - [**Economic Systems - Enhancements (Future)**](./HighLevelOverview/Economic_Systems_Enhancements)  
   Advanced economic features
+
+### Visual Design
+
+- [**Visual Design**](./HighLevelOverview/Visual Design/Visual Design Rant)  
+  Art style and camera perspective
 
 ---
 
 ## 🎯 Quick Start
 
 ### For Developers
+
 1. Start with [AI Systems - Core](./HighLevelOverview/AI_Systems_Core) to understand the foundational behavior systems
 2. Review [Economic Systems - Core](./HighLevelOverview/Economic_Systems_Core) for economic integration
 3. See enhancement documents for post-MVP features
 
 ### For Designers
+
 1. Read the **Design Rationale** sections in core documents
 2. Review **Emergence Pattern Examples** in appendices
 3. Check **Success Metrics** to understand goals
 
+
+
 ### For Game Masters / Players
+
 1. Explore **Personality Behavior Examples** to understand NPC types
 2. Study **Faction Dynamics** to grasp political systems
 3. Learn **Occupation Emergence** to see career paths
@@ -63,17 +74,21 @@ The economic systems create realistic trade, production, and resource flow dynam
 ## 🔑 Key Concepts
 
 ### Emergence Over Scripting
+
 Stories emerge from system interactions rather than pre-written narratives. No two playthroughs are identical.
 
 ### Observable Economy
+
 Every resource has physical presence. Players can trace wheat from field → barn → market → baker.
 
 ### Tiered Complexity
+
 - **90% Tier 1 NPCs**: Simplified simulation (the masses)
 - **9% Tier 2 NPCs**: Notable figures with individual relationships
 - **1% Tier 3 NPCs**: Major players shaping civilization
 
 ### Personality Drives All
+
 7 personality traits (Courage, Loyalty, Ambition, Kind/Cruel, Honest/Deceitful, Rational/Emotional, Traditional/Progressive) determine every decision.
 
 ---
@@ -116,26 +131,29 @@ Every resource has physical presence. Players can trace wheat from field → bar
 
 ## 📈 Implementation Status
 
-| System | Status | Priority |
-|:-------|:------:|:---------|
-| AI Core | ✅ Ready | Must Have (MVP) |
-| Economic Core | ✅ Ready | Must Have (MVP) |
-| AI Enhancements | 📋 Designed | Post-MVP |
-| Economic Enhancements | 📋 Designed | Post-MVP |
+| System                | Status      | Priority        |
+|:--------------------- |:-----------:|:--------------- |
+| AI Core               | ✅ Ready     | Must Have (MVP) |
+| Economic Core         | ✅ Ready     | Must Have (MVP) |
+| AI Enhancements       | 📋 Designed | Post-MVP        |
+| Economic Enhancements | 📋 Designed | Post-MVP        |
 
 ---
 
 ## 💡 Example Emergence Patterns
 
 ### Micro (Individual)
+
 - Peasant John kills 7 enemies → Becomes War Hero (Tier 2)
 - Merchant Sarah accumulates wealth → Rich Merchant → Political influence
 
 ### Meso (Factional)
+
 - House Varlen vs House Marcus rivalry → Civil war
 - Merchant guild monopolizes trade → Economic power → Political pressure
 
 ### Macro (Civilization)
+
 - Too many soldiers recruited → Farms abandoned → Famine → Banditry → Collapse
 - Wise king opens granaries → Crisis averted → Golden age
 
