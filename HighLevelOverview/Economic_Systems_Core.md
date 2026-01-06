@@ -1,3 +1,11 @@
+---
+layout: default
+title: Economic Systems - Core
+parent: Documentation
+nav_order: 3
+has_toc: true
+---
+
 # **Economic Systems - Core (MVP)**
 
 **Version:** 1.0  

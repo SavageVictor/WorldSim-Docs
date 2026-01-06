@@ -1,3 +1,11 @@
+---
+layout: default
+title: AI Systems - Enhancements
+parent: Documentation
+nav_order: 2
+has_toc: true
+---
+
 # **AI Systems - Enhancements (Future)**
 
 **Version:** 1.0  

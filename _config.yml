@@ -1,0 +1,39 @@
+# Jekyll configuration using Just the Docs theme
+remote_theme: just-the-docs/just-the-docs
+
+title: WorldSim Documentation
+description: Complex world simulation system documentation
+
+# Enable back to top button
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Enable search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+
+# Enable copy button on code blocks
+enable_copy_code_button: true
+
+# Color scheme (can be: light, dark, or custom)
+color_scheme: light
+
+# Navigation structure
+nav_order: 1
+
+# Aux links (top right)
+aux_links:
+  "View on GitHub":
+    - "https://github.com/SavageVictor/WorldSim-Docs"
+
+# Footer content
+footer_content: "Copyright &copy; 2025 WorldSim. Distributed under the MIT License."
+
+# Kramdown settings (for TOC)
+kramdown:
+  auto_ids: true
+  toc_levels: 1..3

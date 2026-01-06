@@ -1,3 +1,11 @@
+---
+layout: default
+title: AI Systems - Core
+parent: Documentation
+nav_order: 1
+has_toc: true
+---
+
 # **AI Systems - Core (MVP)**
 
 **Version:** 1.0  

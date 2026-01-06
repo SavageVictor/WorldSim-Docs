@@ -1,3 +1,11 @@
+---
+layout: default
+title: Economic Systems - Enhancements
+parent: Documentation
+nav_order: 4
+has_toc: true
+---
+
 # **Economic Systems - Enhancements (Future)**
 
 **Version:** 1.0  
