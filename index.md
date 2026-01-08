@@ -58,8 +58,7 @@ The economic systems create realistic trade, production, and resource flow dynam
 
 ### Visual Design
 
-- [**Visual Design**](./HighLevelOverview/Visual Design/Visual Design Rant)  
-  Art style and camera perspective
+- [**Visual Design**](./HighLevelOverview/Visual%20Design/Visual%20Design%20Rant.md) - Art style and camera perspective
 
 ---
 

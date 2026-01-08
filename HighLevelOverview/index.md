@@ -36,11 +36,11 @@ Observable, physical economy with:
 
 **Browse**: [Core Systems](Economic_Systems/Core/01_Core_Philosophy.md) | [Enhancements](Economic_Systems/Enhancements/01_Overview.md)
 
-### [Visual Design](Visual Design)
+### [Visual Design](Visual%20Design)
 
 Art direction and camera systems
 
-**Browse**: [Visual Design Rant](Visual Design/Visual Design Rant)
+**Browse**: [Visual Design Rant](Visual%20Design/Visual%20Design%20Rant.md)
 
 ---
 
