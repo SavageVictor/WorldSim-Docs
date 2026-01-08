@@ -1,114 +1,18 @@
 ---
 layout: default
-title: AI Systems - Core
-parent: Documentation
-nav_order: 1
-has_toc: true
+title: Appendices
+parent: AI Systems
+grand_parent: Documentation
+nav_order: 14
 ---
-
-# **AI Systems - Core (MVP)**
-
-**Version:** 1.0  
-**Last Updated:** 2025-01-XX  
-**Document Type:** Core System Specification  
-**Target Audience:** Development Team  
-**Status:** Ready for Implementation
 
 **Related Documents:**
 - AI Systems - Enhancements (future features)
 - Economic Systems - Core (economic behavior integration)
 - Economic Systems - Enhancements (future economic features)
 
----
 
-## **Table of Contents**
-
-### **PART 1: EXECUTIVE SUMMARY**
-
-1.1 Core Philosophy  
-1.2 Key Numbers & Ratios  
-1.3 Implementation Priorities
-
-### **PART 2: CORE SYSTEMS**
-
-**2.1 NPC Tiering System**
-- 2.1.1 Tier 1: The Masses (90%)
-- 2.1.2 Tier 2: Notable Figures (9%)
-- 2.1.3 Tier 3: Major Players (1%)
-- 2.1.4 Basic Promotion Concept
-
-**2.2 Personality System**
-- 2.2.1 Core 3-Trait System (All NPCs)
-- 2.2.2 Extended 7-Trait System (All NPCs)
-- 2.2.3 Personality-Behavior Matrix
-- 2.2.4 Trait Modification Over Time
-
-**2.3 Relationship System**
-- 2.3.1 Multi-Dimensional Relationships (Tier 2/3)
-- 2.3.2 Relationship Dimensions
-- 2.3.3 Emergent Relationship States
-- 2.3.4 Relationship Memory
-- 2.3.5 Relationship Scope Limits
-
-**2.4 Faction System**
-- 2.4.1 Faction Types
-- 2.4.2 NPC-Faction Relationships
-- 2.4.3 Faction-to-Faction Relationships
-- 2.4.4 Factional Dynamics
-
-**2.5 Occupation System**
-- 2.5.1 Occupation as Dynamic State
-- 2.5.2 Major Occupation Types
-- 2.5.3 Occupation Emergence Conditions
-- 2.5.4 Supply/Demand System (See Economic Systems - Core)
-- 2.5.5 Occupation Satisfaction & Loyalty (Placeholder)
-- 2.5.6 Career Progression Paths (Placeholder)
-
-**2.6 Need & Goal System**
-- 2.6.1 Modified Maslow Hierarchy
-- 2.6.2 Personality-Modified Priorities
-- 2.6.3 Dynamic Goal Generation
-- 2.6.4 Goal Conflicts
-
-**2.7 Interaction System**
-- 2.7.1 Interaction Probability
-- 2.7.2 Interaction Types
-- 2.7.3 Interaction Resolution
-- 2.7.4 Outcome Processing
-
-**2.8 Memory & Learning System**
-- 2.8.1 Memory Types
-- 2.8.2 Memory Storage Limits
-- 2.8.3 Memory-Driven Behavior Changes
-- 2.8.4 Pattern Recognition
-- 2.8.5 Trauma & Formative Events
-
-**2.9 Reputation & Gossip System**
-- 2.9.1 Reputation Dimensions
-- 2.9.2 Information Flow
-- 2.9.3 Gossip Mechanics
-- 2.9.4 Reputation Effects
-
-**2.10 Conflict Resolution System**
-- 2.10.1 Conflict Types
-- 2.10.2 Resolution Methods
-- 2.10.3 Outcome Consequences
-
-**2.11 Civilization-Level Dynamics**
-- 2.11.1 Occupation Ratios & Health
-- 2.11.2 Factional Power Balance
-- 2.11.3 Cultural/Religious Movements
-- 2.11.4 Population Dynamics
-
-### **PART 3: DESIGN RATIONALE**
-
-3.1 Emergence Philosophy  
-3.2 Why These Systems Create Stories  
-3.3 Scalability Considerations  
-3.4 Expected Emergence Patterns  
-3.5 Design Goals & Success Metrics
-
-### **APPENDICES**
+# **APPENDICES**
 
 A. Personality Behavior Examples  
 B. Relationship Examples  
@@ -2327,21 +2231,3 @@ Year 5: Golden age
 
 ---
 
-**END OF DOCUMENT**
-
----
-
-## **Document Revision History**
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | 2025-01-XX | Initial AI Systems - Core document created, split from combined document |
-
----
-
-**Related Documents:**
-- **AI Systems - Enhancements:** Detailed promotion system, future systems integration, polish features
-- **Economic Systems - Core:** Economic behavior integration, trade mechanics
-- **Economic Systems - Enhancements:** Future economic features
-
-**For Implementation Questions:** Reference appendices for detailed examples. See Enhancement document for advanced features.

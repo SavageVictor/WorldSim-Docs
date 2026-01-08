@@ -1,18 +1,10 @@
 ---
 layout: default
-title: Economic Systems - Core
-parent: Documentation
-nav_order: 3
-has_toc: true
+title: Appendices
+parent: Economic Systems
+grand_parent: Documentation
+nav_order: 9
 ---
-
-# **Economic Systems - Core (MVP)**
-
-**Version:** 1.0  
-**Last Updated:** 2025-01-XX  
-**Document Type:** Core System Specification  
-**Target Audience:** Development Team  
-**Status:** Ready for Implementation
 
 **Related Documents:**
 - AI Systems - Core (main AI behavior systems)
@@ -20,55 +12,8 @@ has_toc: true
 - Economic Systems - Enhancements (future economic features)
 - [Future] Resource Encyclopedia (detailed resource specs, interactions, visuals)
 
----
 
-## **Table of Contents**
-
-### **PART 1: CORE PHILOSOPHY**
-1.1 Design Principles  
-1.2 Observable Economy  
-1.3 Integration with AI Systems
-
-### **PART 2: RESOURCE SYSTEMS**
-2.1 Resource Categories  
-2.2 Physical Inventory System  
-2.3 Resource Flow Visualization
-
-### **PART 3: PRODUCTION SYSTEMS**
-3.1 Extraction & Gathering  
-3.2 Crafting & Processing  
-3.3 Professional Requirements  
-3.4 Simple Production AI
-
-### **PART 4: TRADE & COMMERCE**
-4.1 Acquaintance & Knowledge Networks  
-4.2 Trade Discovery System  
-4.3 Supplier Reliability Tracking  
-4.4 Information Spread (Local vs Global)
-
-### **PART 5: MARKET SYSTEMS**
-5.1 Physical Market Locations  
-5.2 Market Behavior (Buyers & Sellers)  
-5.3 Transaction Mechanics  
-5.4 Market Frequency & Scale
-
-### **PART 6: CURRENCY & VALUE**
-6.1 Simple Currency System  
-6.2 Baseline Value System  
-6.3 Simple Pricing Mechanics
-
-### **PART 7: SYSTEM INTEGRATION**
-7.1 Integration with Need & Goal System  
-7.2 Integration with Occupation System  
-7.3 Integration with Personality System  
-7.4 Emergent Economic Patterns
-
-### **PART 8: IMPLEMENTATION PLAN**
-8.1 Implementation Phases  
-8.2 Success Metrics  
-8.3 Performance Targets
-
-### **APPENDICES**
+# **APPENDICES**
 A. Observable Flow Examples  
 B. Trade Discovery Examples  
 C. Market Behavior Examples  
@@ -2598,16 +2543,3 @@ Elena (Wood) ↗                                                             ↓
 
 ---
 
-**END OF DOCUMENT**
-
----
-
-## **Document Revision History**
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | 2025-01-XX | Initial core economic systems document created |
-
----
-
-**For Implementation Questions:** Reference AI Systems Design Document for behavior integration details. See Economic Systems - Enhancements document for future features.

@@ -1,54 +1,18 @@
 ---
 layout: default
-title: AI Systems - Enhancements
-parent: Documentation
-nav_order: 2
-has_toc: true
+title: Appendices
+parent: AI Systems
+grand_parent: Documentation
+nav_order: 5
 ---
-
-# **AI Systems - Enhancements (Future)**
-
-**Version:** 1.0  
-**Last Updated:** 2025-01-XX  
-**Document Type:** Enhancement Specification  
-**Target Audience:** Development Team  
-**Status:** Post-MVP Features
 
 **Related Documents:**
 - AI Systems - Core (foundational AI behavior systems)
 - Economic Systems - Core (economic integration)
 - Economic Systems - Enhancements (future economic features)
 
----
 
-## **Table of Contents**
-
-### **PART 1: OVERVIEW**
-1.1 Enhancement Philosophy  
-1.2 Priority Organization  
-1.3 Dependencies
-
-### **PART 2: PROMOTION SYSTEM (DETAILED)**
-2.1 Tier 1 → Tier 2 Promotion  
-2.2 Tier 2 → Tier 3 Promotion  
-2.3 Demotion System  
-2.4 Promotion Effects & Consequences
-
-### **PART 3: FUTURE SYSTEMS INTEGRATION**
-3.1 Religion System (Placeholder)  
-3.2 Environmental System (Placeholder)  
-3.3 Economic System Integration (COMPLETE)  
-3.4 Combat System (Placeholder)  
-3.5 Player Interaction System (Placeholder)
-
-### **PART 4: ENHANCEMENT FEATURES**
-4.1 Advanced Memory Systems  
-4.2 Personality Evolution  
-4.3 Dynasty & Legacy Systems  
-4.4 Advanced Faction Politics  
-4.5 Cultural & Ideological Systems
-
-### **APPENDICES**
+# **APPENDICES**
 A. Promotion Trigger Examples  
 B. Future System Design Notes
 
@@ -1268,20 +1232,3 @@ Multi-generational story complete!
 
 ---
 
-**END OF DOCUMENT**
-
----
-
-## **Document Revision History**
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | 2025-01-XX | Initial AI Systems - Enhancements document created |
-
----
-
-**Related Documents:**
-- **AI Systems - Core:** Foundational behavior systems (must be stable first)
-- **Economic Systems - Core & Enhancements:** Fully designed economic integration
-
-**For Implementation:** Start with Promotion System (Section 2) after Core AI Systems proven stable and performant.

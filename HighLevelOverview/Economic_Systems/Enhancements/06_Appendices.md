@@ -1,18 +1,10 @@
 ---
 layout: default
-title: Economic Systems - Enhancements
-parent: Documentation
-nav_order: 4
-has_toc: true
+title: Appendices
+parent: Economic Systems
+grand_parent: Documentation
+nav_order: 6
 ---
-
-# **Economic Systems - Enhancements (Future)**
-
-**Version:** 1.0  
-**Last Updated:** 2025-01-XX  
-**Document Type:** Enhancement Specification  
-**Target Audience:** Development Team  
-**Status:** Post-MVP Features
 
 **Related Documents:**
 - Economic Systems - Core (MVP) (foundational systems)
@@ -20,42 +12,8 @@ has_toc: true
 - AI Systems - Enhancements (future AI features)
 - [Future] Resource Encyclopedia (detailed resource specs)
 
----
 
-## **Table of Contents**
-
-### **PART 1: OVERVIEW**
-1.1 Enhancement Philosophy  
-1.2 Priority Tiers  
-1.3 Dependencies
-
-### **PART 2: TIER 1 ENHANCEMENTS (High Priority)**
-2.1 Market-Responsive Production  
-2.2 Dynamic Pricing System  
-2.3 Negotiation System  
-2.4 Resource Spoilage & Decay
-
-### **PART 3: TIER 2 ENHANCEMENTS (Medium Priority)**
-3.1 Barter System  
-3.2 Gossip Accuracy Degradation  
-3.3 Trade Reputation & Scamming  
-3.4 Personality-Driven Consumption  
-3.5 Memory Decay for Supplier Knowledge
-
-### **PART 4: TIER 3 ENHANCEMENTS (Polish)**
-4.1 Emergent Currency Types  
-4.2 Advanced Information Spread System  
-4.3 Employment & Wage System  
-4.4 Investment & Banking  
-4.5 Trade Routes & Caravans  
-4.6 Economic Policies & Regulations
-
-### **PART 5: IMPLEMENTATION GUIDANCE**
-5.1 When to Implement Each Enhancement  
-5.2 Testing Requirements  
-5.3 Integration Challenges
-
-### **APPENDICES**
+# **APPENDICES**
 A. Market-Responsive Production Examples  
 B. Dynamic Pricing Examples  
 C. Negotiation Examples  
@@ -1928,16 +1886,3 @@ Factions implement economic policies (tariffs, regulations, price controls), aff
 
 ---
 
-**END OF DOCUMENT**
-
----
-
-## **Document Revision History**
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | 2025-01-XX | Initial enhancements document created |
-
----
-
-**Implementation Priority:** Focus on Core systems first (see Economic Systems - Core document). Only implement enhancements after Core is stable and proven.
