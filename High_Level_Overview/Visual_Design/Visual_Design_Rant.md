@@ -1,3 +1,11 @@
+---
+layout: default
+title: Visual Design Rant
+parent: Visual Design
+grand_parent: High Level Overview
+nav_order: 1
+---
+
 Overall visual design thoughts and considerations
 
 Our visual design should allow ease of scaling of objects on different zoom levels, allow destruction/cretion of environment by user, should allow for clear destinction and uniqness of characters/npcs. And obviously should be pleasant for eyes. Overall feel direction is to have more high fantasy vibrant pixel art style.
