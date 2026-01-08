@@ -56,23 +56,23 @@ Economy arises from individual NPC production, consumption, and trade decisions.
 ## Quick Links
 
 ### Core Systems
-- [Core Philosophy](Core/01_Core_Philosophy)
-- [Resource Systems](Core/02_Resource_Systems)
-- [Production Systems](Core/03_Production_Systems)
-- [Trade & Commerce](Core/04_Trade_Commerce)
-- [Market Systems](Core/05_Market_Systems)
-- [Currency & Value](Core/06_Currency_Value)
-- [System Integration](Core/07_System_Integration)
-- [Implementation Plan](Core/08_Implementation_Plan)
-- [Appendices](Core/09_Appendices)
+- [Core Philosophy](Core/01_Core_Philosophy.md)
+- [Resource Systems](Core/02_Resource_Systems.md)
+- [Production Systems](Core/03_Production_Systems.md)
+- [Trade & Commerce](Core/04_Trade_Commerce.md)
+- [Market Systems](Core/05_Market_Systems.md)
+- [Currency & Value](Core/06_Currency_Value.md)
+- [System Integration](Core/07_System_Integration.md)
+- [Implementation Plan](Core/08_Implementation_Plan.md)
+- [Appendices](Core/09_Appendices.md)
 
 ### Enhancements
-- [Overview](Enhancements/01_Overview)
-- [Tier 1 Enhancements](Enhancements/02_Tier1_Enhancements)
-- [Tier 2 Enhancements](Enhancements/03_Tier2_Enhancements)
-- [Tier 3 Enhancements](Enhancements/04_Tier3_Enhancements)
-- [Implementation Guidance](Enhancements/05_Implementation_Guidance)
-- [Appendices](Enhancements/06_Appendices)
+- [Overview](Enhancements/01_Overview.md)
+- [Tier 1 Enhancements](Enhancements/02_Tier1_Enhancements.md)
+- [Tier 2 Enhancements](Enhancements/03_Tier2_Enhancements.md)
+- [Tier 3 Enhancements](Enhancements/04_Tier3_Enhancements.md)
+- [Implementation Guidance](Enhancements/05_Implementation_Guidance.md)
+- [Appendices](Enhancements/06_Appendices.md)
 
 ---
 

@@ -25,18 +25,18 @@ A complex world simulation featuring emergent AI behavior, dynamic economies, an
 The AI systems define how NPCs think, feel, and interact with each other and the world.
 
 **Core Systems (MVP):**
-- [Executive Summary](./HighLevelOverview/AI_Systems/Core/01_Executive_Summary) - Philosophy & priorities
-- [NPC Tiering](./HighLevelOverview/AI_Systems/Core/02_NPC_Tiering) - 90/9/1 distribution
-- [Personality System](./HighLevelOverview/AI_Systems/Core/03_Personality) - 7 traits driving behavior
-- [Relationships](./HighLevelOverview/AI_Systems/Core/04_Relationships) - Multi-dimensional bonds
-- [Factions](./HighLevelOverview/AI_Systems/Core/05_Factions) - Group dynamics
-- [Occupations](./HighLevelOverview/AI_Systems/Core/06_Occupations) - Dynamic careers
-- [Needs & Goals](./HighLevelOverview/AI_Systems/Core/07_Needs_Goals) - Maslow hierarchy
+- [Executive Summary](./HighLevelOverview/AI_Systems/Core/01_Executive_Summary.md) - Philosophy & priorities
+- [NPC Tiering](./HighLevelOverview/AI_Systems/Core/02_NPC_Tiering.md) - 90/9/1 distribution
+- [Personality System](./HighLevelOverview/AI_Systems/Core/03_Personality.md) - 7 traits driving behavior
+- [Relationships](./HighLevelOverview/AI_Systems/Core/04_Relationships.md) - Multi-dimensional bonds
+- [Factions](./HighLevelOverview/AI_Systems/Core/05_Factions.md) - Group dynamics
+- [Occupations](./HighLevelOverview/AI_Systems/Core/06_Occupations.md) - Dynamic careers
+- [Needs & Goals](./HighLevelOverview/AI_Systems/Core/07_Needs_Goals.md) - Maslow hierarchy
 - [More...](./HighLevelOverview/AI_Systems)
 
 **Enhancements (Post-MVP):**
-- [Promotion System](./HighLevelOverview/AI_Systems/Enhancements/02_Promotion_System) - Tier advancement
-- [Future Systems](./HighLevelOverview/AI_Systems/Enhancements/03_Future_Systems) - Religion, combat, etc.
+- [Promotion System](./HighLevelOverview/AI_Systems/Enhancements/02_Promotion_System.md) - Tier advancement
+- [Future Systems](./HighLevelOverview/AI_Systems/Enhancements/03_Future_Systems.md) - Religion, combat, etc.
 - [More...](./HighLevelOverview/AI_Systems)
 
 ### Economic Systems
@@ -44,16 +44,16 @@ The AI systems define how NPCs think, feel, and interact with each other and the
 The economic systems create realistic trade, production, and resource flow dynamics.
 
 **Core Systems (MVP):**
-- [Core Philosophy](./HighLevelOverview/Economic_Systems/Core/01_Core_Philosophy) - Observable, physical, emergent
-- [Resource Systems](./HighLevelOverview/Economic_Systems/Core/02_Resource_Systems) - Categories & inventory
-- [Production](./HighLevelOverview/Economic_Systems/Core/03_Production_Systems) - Extraction & crafting
-- [Trade & Commerce](./HighLevelOverview/Economic_Systems/Core/04_Trade_Commerce) - Networks & discovery
-- [Markets](./HighLevelOverview/Economic_Systems/Core/05_Market_Systems) - Physical locations
+- [Core Philosophy](./HighLevelOverview/Economic_Systems/Core/01_Core_Philosophy.md) - Observable, physical, emergent
+- [Resource Systems](./HighLevelOverview/Economic_Systems/Core/02_Resource_Systems.md) - Categories & inventory
+- [Production](./HighLevelOverview/Economic_Systems/Core/03_Production_Systems.md) - Extraction & crafting
+- [Trade & Commerce](./HighLevelOverview/Economic_Systems/Core/04_Trade_Commerce.md) - Networks & discovery
+- [Markets](./HighLevelOverview/Economic_Systems/Core/05_Market_Systems.md) - Physical locations
 - [More...](./HighLevelOverview/Economic_Systems)
 
 **Enhancements (Post-MVP):**
-- [Tier 1](./HighLevelOverview/Economic_Systems/Enhancements/02_Tier1_Enhancements) - Dynamic pricing, negotiation
-- [Tier 2](./HighLevelOverview/Economic_Systems/Enhancements/03_Tier2_Enhancements) - Barter, reputation
+- [Tier 1](./HighLevelOverview/Economic_Systems/Enhancements/02_Tier1_Enhancements.md) - Dynamic pricing, negotiation
+- [Tier 2](./HighLevelOverview/Economic_Systems/Enhancements/03_Tier2_Enhancements.md) - Barter, reputation
 - [More...](./HighLevelOverview/Economic_Systems)
 
 ### Visual Design
@@ -73,15 +73,15 @@ The economic systems create realistic trade, production, and resource flow dynam
 
 ### For Designers
 
-1. Read the **Design Rationale** sections ([AI](./HighLevelOverview/AI_Systems/Core/13_Design_Rationale) | [Economy](./HighLevelOverview/Economic_Systems/Core/01_Core_Philosophy))
+1. Read the **Design Rationale** sections ([AI](./HighLevelOverview/AI_Systems/Core/13_Design_Rationale.md) | [Economy](./HighLevelOverview/Economic_Systems/Core/01_Core_Philosophy.md))
 2. Review **Emergence Pattern Examples** in appendices
 3. Check **Success Metrics** to understand goals
 
 ### For Game Masters / Players
 
-1. Explore **Personality Behavior Examples** ([link](./HighLevelOverview/AI_Systems/Core/14_Appendices)) to understand NPC types
-2. Study **Faction Dynamics** ([link](./HighLevelOverview/AI_Systems/Core/05_Factions)) to grasp political systems
-3. Learn **Occupation Emergence** ([link](./HighLevelOverview/AI_Systems/Core/06_Occupations)) to see career paths
+1. Explore **Personality Behavior Examples** ([link](./HighLevelOverview/AI_Systems/Core/14_Appendices.md)) to understand NPC types
+2. Study **Faction Dynamics** ([link](./HighLevelOverview/AI_Systems/Core/05_Factions.md)) to grasp political systems
+3. Learn **Occupation Emergence** ([link](./HighLevelOverview/AI_Systems/Core/06_Occupations.md)) to see career paths
 
 ---
 

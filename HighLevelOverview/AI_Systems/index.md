@@ -64,27 +64,27 @@ Individual decisions create civilization-level changes.
 ## Quick Links
 
 ### Core Systems
-- [Executive Summary](Core/01_Executive_Summary)
-- [NPC Tiering System](Core/02_NPC_Tiering)
-- [Personality System](Core/03_Personality)
-- [Relationship System](Core/04_Relationships)
-- [Faction System](Core/05_Factions)
-- [Occupation System](Core/06_Occupations)
-- [Need & Goal System](Core/07_Needs_Goals)
-- [Interaction System](Core/08_Interactions)
-- [Memory & Learning](Core/09_Memory_Learning)
-- [Reputation & Gossip](Core/10_Reputation_Gossip)
-- [Conflict Resolution](Core/11_Conflict_Resolution)
-- [Civilization Dynamics](Core/12_Civilization_Dynamics)
-- [Design Rationale](Core/13_Design_Rationale)
-- [Appendices](Core/14_Appendices)
+- [Executive Summary](Core/01_Executive_Summary.md)
+- [NPC Tiering System](Core/02_NPC_Tiering.md)
+- [Personality System](Core/03_Personality.md)
+- [Relationship System](Core/04_Relationships.md)
+- [Faction System](Core/05_Factions.md)
+- [Occupation System](Core/06_Occupations.md)
+- [Need & Goal System](Core/07_Needs_Goals.md)
+- [Interaction System](Core/08_Interactions.md)
+- [Memory & Learning](Core/09_Memory_Learning.md)
+- [Reputation & Gossip](Core/10_Reputation_Gossip.md)
+- [Conflict Resolution](Core/11_Conflict_Resolution.md)
+- [Civilization Dynamics](Core/12_Civilization_Dynamics.md)
+- [Design Rationale](Core/13_Design_Rationale.md)
+- [Appendices](Core/14_Appendices.md)
 
 ### Enhancements
-- [Overview](Enhancements/01_Overview)
-- [Promotion System](Enhancements/02_Promotion_System)
-- [Future Systems Integration](Enhancements/03_Future_Systems)
-- [Enhancement Features](Enhancements/04_Enhancement_Features)
-- [Appendices](Enhancements/05_Appendices)
+- [Overview](Enhancements/01_Overview.md)
+- [Promotion System](Enhancements/02_Promotion_System.md)
+- [Future Systems Integration](Enhancements/03_Future_Systems.md)
+- [Enhancement Features](Enhancements/04_Enhancement_Features.md)
+- [Appendices](Enhancements/05_Appendices.md)
 
 ---
 
