@@ -16,9 +16,12 @@ nav_order: 4
 
 ### **Purpose**
 
-Track complex relationships between Tier 2/3 NPCs. Multiple independent dimensions create realistic interpersonal dynamics.
+Track relationships between NPCs at all tiers. Multiple independent dimensions create realistic interpersonal dynamics.
 
-**Scope:** Only Tier 2 and Tier 3 NPCs track individual relationships. Tier 1 uses faction relationships only (though they have lightweight acquaintance networks for trade - see Economic Systems - Core, Section 4.1).
+**Scope:** 
+- Tier 1 NPCs: Track up to 5-10 relationships using simplified 3-dimensional model
+- Tier 2 NPCs: Track up to 20 relationships using full 5-dimensional model
+- Tier 3 NPCs: Track up to 50-100 relationships using full 5-dimensional model
 
 ---
 
@@ -213,26 +216,33 @@ See **Appendix B.4: Relationship Memory Examples** for detailed scenarios.
 
 ```
 Tier 1 NPCs:
-  - NO individual relationship tracking
-  - Only faction relationships
-  - Can still be in relationships (spouse, family) but not mechanically tracked
-  - Use lightweight acquaintance network for trade (Economic Systems - Core)
+  - Track up to 5-10 individual relationships (lightweight)
+  - Simplified 3-dimensional model: Affection, Respect, Trust only
+  - NO Attraction or Power Dynamic tracking
+  - NO relationship memory storage
+  - Prioritize: Spouse, family members, close friends, regular trade partners
+  - Everyone else abstracted as faction/class sentiment
 
 Tier 2 NPCs:
-  - Track up to 20 individual relationships
+  - Track up to 20 individual relationships (full model)
+  - Full 5-dimensional model with all dimensions
+  - Store up to 10 relationship memories per relationship
   - Prioritize: Other Tier 2/3, faction leaders, family, frequent contacts
   - Everyone else abstracted as class sentiment
 
 Tier 3 NPCs:
-  - Track up to 50-100 individual relationships
+  - Track up to 50-100 individual relationships (full model)
+  - Full 5-dimensional model with all dimensions
+  - Store up to 10 relationship memories per relationship
   - Prioritize: All Tier 3, important Tier 2, faction leaders, rivals, allies
   - More relationships = more political complexity
 ```
 
 **Relationship Formation:**
-- Tier 2 can form relationship with Tier 1 (tracked on Tier 2's side only)  
-- Tier 3 can form relationship with anyone (tracked on Tier 3's side only)  
-- Mutual tracking only when both are Tier 2+
+- Tier 1 can form relationships with other Tier 1 NPCs (mutual tracking if both have capacity)
+- Tier 2 can form relationship with anyone (tracked on Tier 2's side, mutual if other is Tier 1+)
+- Tier 3 can form relationship with anyone (tracked on Tier 3's side, mutual if other is Tier 1+)
+- When Tier 1 relationship slots are full, oldest/weakest relationships may be dropped
 
 ---
 

@@ -36,16 +36,19 @@ Balance simulation depth with performance by intelligently allocating computatio
 
 **Relationship Data:**
 
-NO individual relationship tracking.
+Track up to **5-10 individual relationships** (lightweight version):
+- Simplified 3-dimensional model (Affection, Respect, Trust only)
+- No relationship memory storage
+- Prioritize: Family members, close friends, frequent contacts
 
-Instead:
+Additional relationship data:
 - Faction Memberships: Array of 1-3 Faction IDs
 - Faction Loyalty: (-100 to +100) per faction
 - Class Sentiment: (-100 to +100) toward each major class
 - Mood: (0-100) current happiness
 - Grievances: Array (max 5) of recent anger triggers
 
-**Note:** For economic trade, Tier 1 NPCs use lightweight acquaintance network (5-10 contacts) - see Economic Systems - Core, Section 4.1.
+**Note:** For economic trade, Tier 1 NPCs use their lightweight relationship network to determine trade partners - see Economic Systems - Core, Section 4.1.
 
 **Goal System:** Goals are **class-based**, not individual:
 
@@ -55,9 +58,9 @@ Instead:
 * Merchants: Wealth, trade routes, influence  
 * Servants: Job security, decent treatment
 
-**Behavior Patterns:** Behavior emerges from personality combinations (see Section 2.2.3)
+**Behavior Patterns:** Behavior emerges from personality combinations (see Section 2.2.3) and relationships with nearby NPCs
 
-**Performance Note:** Tier 1 NPCs can be processed in batches using DOTS Jobs. No pathfinding or complex AI needed for most.
+**Performance Note:** Tier 1 NPCs can be processed in batches using DOTS Jobs. Lightweight relationship system adds minimal overhead. No pathfinding or complex AI needed for most.
 
 ---
 
