@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Design Rationale
-parent: AI Systems
-grand_parent: Documentation
+parent: Core Systems
+grand_parent: AI Systems
 nav_order: 13
 ---
 

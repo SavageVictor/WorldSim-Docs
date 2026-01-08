@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Overview
-parent: Economic Systems
-grand_parent: Documentation
+parent: Enhancements
+grand_parent: Economic Systems
 nav_order: 1
 ---
 

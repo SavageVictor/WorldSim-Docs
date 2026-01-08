@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Promotion System
-parent: AI Systems
-grand_parent: Documentation
+parent: Enhancements
+grand_parent: AI Systems
 nav_order: 2
 ---
 

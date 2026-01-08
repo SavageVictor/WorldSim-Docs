@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Tier 2 Enhancements
-parent: Economic Systems
-grand_parent: Documentation
+parent: Enhancements
+grand_parent: Economic Systems
 nav_order: 3
 ---
 

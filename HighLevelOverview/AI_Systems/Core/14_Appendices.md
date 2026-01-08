@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Appendices
-parent: AI Systems
-grand_parent: Documentation
+parent: Core Systems
+grand_parent: AI Systems
 nav_order: 14
 ---
 

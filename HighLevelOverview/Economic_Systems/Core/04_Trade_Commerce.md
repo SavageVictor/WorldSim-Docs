@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Trade & Commerce
-parent: Economic Systems
-grand_parent: Documentation
+parent: Core Systems
+grand_parent: Economic Systems
 nav_order: 4
 ---
 

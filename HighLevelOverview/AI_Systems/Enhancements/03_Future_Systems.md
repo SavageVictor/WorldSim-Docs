@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Future Systems Integration
-parent: AI Systems
-grand_parent: Documentation
+parent: Enhancements
+grand_parent: AI Systems
 nav_order: 3
 ---
 
