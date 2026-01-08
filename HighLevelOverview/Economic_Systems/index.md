@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Economic Systems
-nav_order: 3
+parent: Documentation
+nav_order: 2
 has_children: true
 permalink: /docs/economic-systems
 ---

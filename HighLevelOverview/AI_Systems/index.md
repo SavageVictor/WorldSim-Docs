@@ -1,7 +1,8 @@
 ---
 layout: default
 title: AI Systems
-nav_order: 2
+parent: Documentation
+nav_order: 1
 has_children: true
 permalink: /docs/ai-systems
 ---
