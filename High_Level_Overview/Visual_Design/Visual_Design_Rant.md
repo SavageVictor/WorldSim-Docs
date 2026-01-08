@@ -2,7 +2,7 @@
 layout: default
 title: Visual Design Rant
 parent: Visual Design
-grand_parent: High Level Overview
+grand_parent: Documentation
 nav_order: 1
 ---
 
