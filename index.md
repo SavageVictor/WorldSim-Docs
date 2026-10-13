@@ -63,7 +63,6 @@ The economic systems create realistic trade, production, and resource flow dynam
 ### Demo II
 
 - [**Demo II**](./Demo_II/index.md) - Design meeting transcripts and the next steps derived from them
-
 - [**Next Steps**](./Demo_II/Next_Steps.md) - Decisions, workstreams, open questions and risks
 
 ---
